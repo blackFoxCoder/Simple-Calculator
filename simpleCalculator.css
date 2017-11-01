@@ -1,0 +1,19 @@
+		table, tr, td {
+			border: 2px solid grey;
+			width: 400px;
+			height: 80px;
+			text-align: center;
+			background-color: #476B76;
+		}
+		tr, td {background-color: white;}
+		button, td input {
+			background-color: white;
+			width: 100%;
+			height: 100%;
+			font-size: 3em;
+		}
+		#oper {background-color: #B848FF;}
+		#notice {
+			font-size:2.5em;
+			background-color: #B848FF;
+		}
